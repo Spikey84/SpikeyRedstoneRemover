@@ -1,0 +1,7 @@
+# if set to true all redstone is disabled; if set to false only redstone from the blacklisted blocks are disabled
+blockall: true
+
+# a list of blocked redstone items (blockall must be false)
+blacklist:
+  - comparator
+  - repeater

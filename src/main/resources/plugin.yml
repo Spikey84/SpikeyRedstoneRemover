@@ -1,0 +1,6 @@
+main: me.spikey.redstoneremover.Main
+
+name: SpikeyRedstoneRemover
+version: 1.0
+api-version: 1.13
+
